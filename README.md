@@ -1,4 +1,4 @@
-<img align="center" alt="Reigns" width="900" height="210" src="https://drive.google.com/file/d/15gSD_63k2wb1IW8zjURT8lXyaPsza-jq/view?usp=sharing">
+<img align="center" alt="Reigns" width="900" height="210" src="https://github.com/Re1gns/Re1gns/">
 <!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
 
 
