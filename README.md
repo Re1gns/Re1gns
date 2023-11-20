@@ -5,13 +5,13 @@
 
 <h1 style="font-family:script;" align="center"> Hello there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  I'm Victor Ayodeji Olatunde (Reigns)</h1>
-<h3 align="center">I'm Fullstack Software Engineer</h3>
+<h3 align="center">Fullstack Software Engineer</h3>
 
-<p align="center">I'm an ardent and meticulous Fullstack Software Engineer, specializing in crafting robust and scalable web applications. While I possess a solid foundation in both frontend and backend technologies, my passion leans heavily towards backend development. I'm dedicated to delivering top-notch solutions that precisely align with user needs and business objectives.</p>
+<p align="justify">I'm an ardent and meticulous Fullstack Software Engineer, specializing in crafting robust and scalable web applications. While I possess a solid foundation in both frontend and backend technologies, my passion leans heavily towards backend development. I'm dedicated to delivering top-notch solutions that precisely align with user needs and business objectives.</p>
 
-<p align="center">Elevating the art of coding, I bring analytical thinking and a knack for solution-oriented problem-solving to every project. Collaboration is my forte, as I thrive in teamwork by fostering effective communication and embracing the synergy of diverse talents. What sets me apart is my unwavering commitment to professionalism, underpinned by a resilient work ethic. My communication skills, both verbal and written, are finely tuned, ensuring clarity and coherence in conveying ideas.</p>
+<p align="justify">Elevating the art of coding, I bring analytical thinking and a knack for solution-oriented problem-solving to every project. Collaboration is my forte, as I thrive in teamwork by fostering effective communication and embracing the synergy of diverse talents. What sets me apart is my unwavering commitment to professionalism, underpinned by a resilient work ethic. My communication skills, both verbal and written, are finely tuned, ensuring clarity and coherence in conveying ideas.</p>
 
-<p align="center">In addition to my technical prowess, I possess leadership capabilities that drive projects towards success. Join me on this journey, where innovation meets functionality, and let's create impactful software together!</p>
+<p align="justify">In addition to my technical prowess, I possess leadership capabilities that drive projects towards success. Join me on this journey, where innovation meets functionality, and let's create impactful software together!</p>
 
 
 <p align="left"> <a href="https://x.com/Re1gns_" target="blank"><img src="https://img.shields.io/twitter/follow/Re1gns_?logo=twitter&style=for-the-badge" alt="Re1gns_" /></a> </p>
