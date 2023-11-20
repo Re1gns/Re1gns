@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Projects with Flask, Django and DevOps**
 
-- 🌱 I’m also learning **Machines and AI, Javascript(ES6+)**
+- 🌱 I’m also learning **Javascript(ES6+), MachineLearning and AI**
 
 - 💬 You can ask me about **Full-Stack, DevOps**
 
