@@ -1,6 +1,4 @@
-<img align="center" alt="Reigns" width="900" height="210" src="https://github.com/Re1gns/Re1gns/">
-<!-- ![](https://i.ytimg.com/vi/2oklET0ERu4/maxresdefault.jpg) -->
-
+<img align="center" alt="Reigns" width="900" height="210" src="https://github.com/Re1gns/Re1gns/blob/main/Images/Programmer-pana.png">
 
 
 <h1 style="font-family:script;" align="center"> Hello there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
