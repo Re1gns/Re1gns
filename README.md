@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Re1gns&label=Profile%20views&color=0e75b6&style=flat" alt="Re1gns" />
 
 
-- 🔭 I’m currently working on **Projects with Flask, Django and DevOps**
+- 🔭 I’m currently working on **Projects with Flask, Django, React.js and DevOps**
 
 - 🌱 I’m also learning **Javascript(ES6+), MachineLearning and AI**
 
