@@ -3,7 +3,7 @@
 
 <h1 style="font-family:script;" align="center"> Hello there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  I'm Victor Ayodeji Olatunde (Reigns)</h1>
-<h3 align="center">Fullstack Software Engineer</h3>
+<h3 align="center">A Fullstack Software Engineer</h3>
 
 <p align="justify">I'm an ardent and meticulous Fullstack Software Engineer, specializing in crafting robust and scalable web applications. While I possess a solid foundation in both frontend and backend technologies, my passion leans heavily towards backend development. I'm dedicated to delivering top-notch solutions that precisely align with user needs and business objectives.</p>
 
