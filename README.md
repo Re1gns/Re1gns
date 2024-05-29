@@ -34,15 +34,15 @@
 
  <br>
  
- ## 🔗 Links
+ ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/re1gns)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+23409025176325)
 <!--[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/) -->
 [![Twitter](https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Re1gns_)
 
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1gns&layout=compact&theme=dark&hide_border=false" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re1gns&layout=compact&theme=gold&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Re1gns&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Olatunde Victor Ayodeji's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Re1gns&theme=dark" alt="Re1gns" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Re1gns&theme=light contrast" alt="Re1gns" /></p>
 <br/>
